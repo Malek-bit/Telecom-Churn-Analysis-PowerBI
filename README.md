@@ -1,8 +1,9 @@
+
 # 📉 Telecom Customer Churn Analysis (Power BI)
 
 An interactive Power BI dashboard that analyzes why customers leave **Databel**, a telecom provider, and which customer groups are most at risk. The goal is to turn raw customer data into clear, actionable retention insights.
 
-![Overview page](images/01-overview.png)
+![Overview page](01-overview.png)
 
 ---
 
@@ -45,22 +46,22 @@ Losing customers is expensive: acquiring a new customer costs far more than keep
 ### 1. Overview
 High-level KPIs (churn rate, total customers, churned customers), churn by category, the top churn reasons, customer breakdown by demographic segment, and a state-level churn map. A **Contract Type** slicer lets you filter the whole page.
 
-![Overview](images/01-overview.png)
+![Overview](01-overview.png)
 
 ### 2. Customer Churn Analysis
 Focuses on **why** customers leave and how churn changes with **age**. The combo chart shows the customer count by age bin against the churn rate.
 
-![Customer Churn Analysis](images/02-customer-churn-analysis.png)
+![Customer Churn Analysis](02-customer-churn-analysis.png)
 
 ### 3. Who Are Our Most Loyal Customers?
 Looks at the lowest-churn groups. It compares churn by contract category, gender, unlimited data plan, and group size, with slicers for each.
 
-![Loyal customers](images/03-loyal-customers.png)
+![Loyal customers](03-loyal-customers.png)
 
 ### 4. Churn Analysis: Demographics & Geography
 Compares churn across Senior, Under 30 and Other customers, and shows how it varies by state.
 
-![Demographics and geography](images/04-demographics-geography.png)
+![Demographics and geography](04-demographics-geography.png)
 
 ---
 
