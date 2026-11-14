@@ -20,7 +20,7 @@ Losing customers is expensive: acquiring a new customer costs far more than keep
 
 ## 📊 Dataset
 
-- **File:** [`data/Databel - Data.csv`](data/Databel%20-%20Data.csv)
+- **File:** [`data/Databel - Data.csv`](Databel%20-%20Data.csv)
 - **Size:** 6,687 customers × 29 columns
 - **Target:** `Churn Label` (Yes / No)
 - **Includes:** account length, local and international usage, data plan, contract type, payment method, monthly and total charges, age, gender, state, group membership, customer service calls, and for churned customers a **churn category** and **churn reason**.
