@@ -127,7 +127,7 @@ Compares churn across Senior, Under 30 and Other customers, and shows how it var
 ## 👤 Author
 
 **Abdelmalek**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: _add your link_
+- GitHub: [@Malek-bit](https://github.com/Malek-bit)
+- LinkedIn: https://www.linkedin.com/in/abdelmalek-mamdouh-2578b128a/
 
 ⭐ If you found this project useful, feel free to star the repo!
